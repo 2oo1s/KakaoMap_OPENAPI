@@ -1,0 +1,21 @@
+body {
+  height: 42rem;
+}
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family:'Courier New', Courier, monospace;
+  font-weight:bold;
+  color:rgb(104, 104, 104)
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#map {
+  width: 37rem;
+  height: 33rem;
+  border: 0.15rem solid rgb(104, 104, 104);
+}
