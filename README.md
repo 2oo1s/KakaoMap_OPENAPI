@@ -1,4 +1,6 @@
-## [ KakaoMap OPEN API를 사용해서 화면에 지도 띄우기 ]
+<div align=center>
+    <h2>[ KakaoMap OPEN API 사용해서 화면에 지도 띄우기 ]</h2>
+</div>
 
 + API.jsx - 카카오맵의 기본 위치를 화면에 표시<br/>
 
