@@ -10,3 +10,7 @@
 > API.jsx 파일을 실행했을 때
 
 <img width="1552" alt="스크린샷 2023-04-02 오전 12 28 42" src="https://user-images.githubusercontent.com/90839206/229302723-39428e88-1777-4e5c-b0b9-eeb9ec0a1bc2.png">
+
+> CurrentPos.jsx 파일을 실행했을 때
+
+<img width="1552" alt="스크린샷 2023-04-04 오후 3 31 45" src="https://user-images.githubusercontent.com/90839206/229707470-d21cded6-8cc2-46b7-8649-a1839dc07b60.png">
